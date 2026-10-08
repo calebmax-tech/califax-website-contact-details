@@ -1,0 +1,29 @@
+assets/workstation.png: Premium IT workstation in a modern lab-1.png
+assets/workstation-detail.png: Premium IT workstation in a modern lab(1).png
+assets/smart-office.png: CaliFax smart office installation(1).png
+assets/showroom.png: CaliFax’s blue-accented tech showroom(1).png
+assets/mobile-app.png: CaliFax mobile app development workspace(1).png
+assets/cloud.png: CaliFax Servers Beneath a Luminous Cloud(1).png
+assets/consultation.png: CaliFax IT Consultation Over a Laptop(1).png
+assets/training.png: CaliFax Digital Skills Workshop(1).png
+assets/security.png: CaliFax Cybersecurity Operations Center(1).png
+assets/repair.png: Precision Laptop Repair at CaliFax(1).png
+assets/networking.png: CaliFax Engineer Wiring a Server Rack(1).png
+assets/development.png: Blue-lit CaliFax development studio(1).png
+assets/studio.png: CaliFax technology studio with blue connections(1).png
+assets/storage.png: CaliFax Enterprise Storage in Cyan Light-13.png
+assets/design.png: Designer shaping vibrant digital designs-14.png
+assets/team.png: Ugandan Tech Team Collaborates at CaliFax-15.png
+assets/reception.png: Welcoming CaliFax office reception-16.png
+assets/support.png: Friendly IT support professional at work(1).png
+All images appear in solutions.html and selected images appear on other pages.
+
+REVIEW PHOTOS — fictional personas, not identified customers
+assets/review-profile-1.jpg: luke-southern-yyvx_eYqtKY-unsplash.jpg; fictional name: Daniel Foster
+assets/review-profile-2.png: Friendly East African professional headshot(1).png; fictional name: Sarah Namukasa
+assets/review-profile-3.png: Friendly technology professional headshot(1).png; fictional name: Michael Okello
+assets/review-profile-4.jpg: hossain-mahmud-EI9Sde6qYGA-unsplash.jpg; fictional name: Arjun Mehta
+assets/review-profile-5.png: Smiling East African tech professional(1).png; fictional name: Brian Mugisha
+assets/review-profile-6.jpg: gabriel-lucindo-EKV_qFwpuBc-unsplash.jpg; fictional name: Elena Rossi
+assets/review-profile-7.png: Confident East African Tech Portrait(1).png; fictional name: David Ouma
+assets/review-profile-8.png: Warm Smiling Tech Professional Portrait(1).png; fictional name: Grace Nansubuga
